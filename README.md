@@ -12,3 +12,5 @@ https://es.wikipedia.org/wiki/Holismo
 https://en.wikipedia.org/wiki/Reductionism
 
 https://en.wikipedia.org/wiki/Emergentism
+
+https://es.wikipedia.org/wiki/Estoicismo
