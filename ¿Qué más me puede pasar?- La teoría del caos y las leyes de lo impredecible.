@@ -1,22 +1,62 @@
-<p align="center">
+¿Qué más me puede pasar?- La teoría del caos y las leyes de lo impredecible. 
 
-  ¿Qué más me puede pasar?- La teoría del caos y las leyes de lo impredecible. 
-
-En las primeras décadas del siglo XX, la física vio cómo se iniciaban dos grandes revoluciones: la teoría de la relatividad y la mecánica cuántica. En las últimas décadas se ha originado y desarrollado una nueva revolución: la teoría del caos determinista. Los científicos descubrieron que sistemas relativamente simples cuya evolución estaba determinada por leyes precisas podían mostrar un comportamiento irregular o caótico. Las claves del llamado efecto mariposa, y la aparición de estructuras fractales son algunos de estos comportamientos tan impredecibles como fascinantes.
+En las primeras décadas del siglo XX, la física vio cómo se iniciaban dos grandes revoluciones: la teoría de la relatividad y la mecánica cuántica.
+En las últimas décadas se ha originado y desarrollado una nueva revolución: la teoría del caos determinista.
+Los científicos descubrieron que sistemas relativamente simples cuya evolución estaba determinada por leyes precisas podían mostrar un comportamiento irregular o caótico.
+Las claves del llamado efecto mariposa, y la aparición de estructuras fractales son algunos de estos comportamientos tan impredecibles como fascinantes.
 
 ¿Que más me puede pasar?
 
-Si analizas bien la pregunta recordaras que  con regularidad las personas suelen expresarla cuando varios eventos consecutivamente se ven afectados por un estado inicial. La teoría del caos afirma que pequeños cambios en las circunstancias pueden tener consecuencias importantes más adelante. Si salimos de casa 30 segundos después, además de perder el autobús quizá también nos hayamos perdido un encuentro con alguien que iba a redirigirnos a un nuevo trabajo, cambiando el rumbo de nuestra vida para siempre. La teoría del caos se aplica sobre todo al tiempo meteorológico, donde un ligero remolino de viento puede desencadenar un huracán al otro lado del planeta, el llamado «efecto mariposa». Sin embargo, el caos no es caótico en sentido literal, pues da origen a algunos patrones.
-El aleteo de una mariposa en Brasil puede ocasionar un tornado en Texas. Eso dice la teoría del caos. La teoría del caos reconoce que algunos sistemas pueden producir comportamientos muy diferentes aunque tengan puntos de partida muy similares. El tiempo atmosférico es uno de estos sistemas. Un leve cambio de temperatura o presión en un lugar puede desencadenar una cadena de acontecimientos posteriores que a su vez disparan un aguacero en otro sitio. El caos es un término un tanto equívoco. No es caótico en el sentido de que sea completamente desenfrenado, impredecible o desestructurado. Los sistemas caóticos son deterministas, es decir, que si conocemos el punto de partida exacto son predecibles y también reproducibles. La física simple describe la serie de sucesos que se desarrollan, que es igual cada vez que se hace. Pero si nos fijamos en un resultado final, es imposible remontarse hacia atrás y determinar de dónde procedía, ya que hay diversos caminos que pueden haber conducido a ese resultado. Esto se debe a que las diferencias entre las condiciones que provocaron uno y otro resultado eran diminutas, incluso imposibles de medir. Así pues, los resultados diferentes proceden de ligerísimos cambios en los valores de entrada. A causa de esta divergencia, si no se está seguro sobre los valores de entrada, la variedad de los comportamientos subsiguientes es enorme.
+Si analizas bien la pregunta recordaras que  con regularidad las personas suelen expresarla cuando varios eventos consecutivamente se ven afectados por un estado inicial.
+La teoría del caos afirma que pequeños cambios en las circunstancias pueden tener consecuencias importantes más adelante.
+Si salimos de casa 30 segundos después, además de perder el autobús quizá también nos hayamos perdido un encuentro con alguien que iba a redirigirnos a un nuevo trabajo,
+cambiando el rumbo de nuestra vida para siempre. La teoría del caos se aplica sobre todo al tiempo meteorológico, donde un ligero remolino de viento puede desencadenar 
+un huracán al otro lado del planeta, el llamado «efecto mariposa». Sin embargo, el caos no es caótico en sentido literal, pues da origen a algunos patrones.
+El aleteo de una mariposa en Brasil puede ocasionar un tornado en Texas. Eso dice la teoría del caos. 
+La teoría del caos reconoce que algunos sistemas pueden producir comportamientos muy diferentes aunque tengan puntos de partida muy similares. 
+El tiempo atmosférico es uno de estos sistemas. Un leve cambio de temperatura o presión en un lugar puede desencadenar una cadena de acontecimientos
+posteriores que a su vez disparan un aguacero en otro sitio. El caos es un término un tanto equívoco.
+No es caótico en el sentido de que sea completamente desenfrenado, impredecible o desestructurado.
+Los sistemas caóticos son deterministas, es decir, que si conocemos el punto de partida exacto son predecibles y también reproducibles.
+La física simple describe la serie de sucesos que se desarrollan, que es igual cada vez que se hace.
+Pero si nos fijamos en un resultado final, es imposible remontarse hacia atrás y determinar de dónde procedía, 
+ya que hay diversos caminos que pueden haber conducido a ese resultado. Esto se debe a que las diferencias entre las condiciones que provocaron uno y otro resultado 
+eran diminutas, incluso imposibles de medir. Así pues, los resultados diferentes proceden de ligerísimos cambios en los valores de entrada.
+A causa de esta divergencia, si no se está seguro sobre los valores de entrada, la variedad de los comportamientos subsiguientes es enorme.
+
 
 Desarrollo 
 
-La teoría del caos fue desarrollada seriamente en la década de 1960 por Edward Lorenz. Mientras utilizaba un ordenador para desarrollar modelos de tiempo atmosférico, Lorenz se percató de que su código generaba patrones meteorológicos de salida enormemente diferentes únicamente porque los números de entrada se redondeaban de una forma distinta. Para facilitar sus cálculos había dividido las simulaciones en diversos fragmentos y trató de reanudarlos por la mitad en lugar de hacerlo desde el principio, imprimiendo números y volviéndolos a copiar después a mano. En el listado que él había copiado, los números se redondeaban con tres decimales, pero la memoria del ordenador manejaba cifras con seis decimales. De modo que cuando 0,123456 fue sustituido por la forma más corta 0,123 en mitad de la simulación, Lorenz observó que el tiempo atmosférico resultante era totalmente diferente. Sus modelos eran reproducibles y, por tanto, no aleatorios, pero las diferencias eran difíciles de interpretar. ¿Por qué un cambio minúsculo en su código producía un maravilloso tiempo despejado en una simulación y una tormenta catastrófica en otra? Al analizarlo con mayor detalle se vio que los patrones meteorológicos resultantes se limitaban a un conjunto determinado, que él denominó atractor. No era posible producir un tipo cualquiera de tiempo atmosférico variando los datos de entrada, sino que más bien se propiciaban un conjunto de patrones meteorológicos aunque fuera difícil predecir con antelación exactamente cuál se derivaría de los datos numéricos de entrada. Éste es un rasgo clave de los sistemas caóticos: siguen patrones generales, pero no se puede retroproyectar un punto final específico hasta un dato de entrada inicial particular porque los caminos potenciales que conducen a esos resultados se superponen.
+La teoría del caos fue desarrollada seriamente en la década de 1960 por Edward Lorenz.
+Mientras utilizaba un ordenador para desarrollar modelos de tiempo atmosférico, Lorenz se percató de que su código generaba patrones meteorológicos 
+de salida enormemente diferentes únicamente porque los números de entrada se redondeaban de una forma distinta. Para facilitar sus cálculos había dividido 
+las simulaciones en diversos fragmentos y trató de reanudarlos por la mitad en lugar de hacerlo desde el principio, imprimiendo números y volviéndolos a
+copiar después a mano. En el listado que él había copiado, los números se redondeaban con tres decimales, pero la memoria del ordenador manejaba cifras 
+con seis decimales. De modo que cuando 0,123456 fue sustituido por la forma más corta 0,123 en mitad de la simulación, Lorenz observó que el tiempo atmosférico
+resultante era totalmente diferente. Sus modelos eran reproducibles y, por tanto, no aleatorios, pero las diferencias eran difíciles de interpretar. 
+¿Por qué un cambio minúsculo en su código producía un maravilloso tiempo despejado en una simulación y una tormenta catastrófica en otra? 
+Al analizarlo con mayor detalle se vio que los patrones meteorológicos resultantes se limitaban a un conjunto determinado, que él denominó atractor. 
+No era posible producir un tipo cualquiera de tiempo atmosférico variando los datos de entrada, sino que más bien se propiciaban un conjunto de 
+patrones meteorológicos aunque fuera difícil predecir con antelación exactamente cuál se derivaría de los datos numéricos de entrada. Éste es un 
+rasgo clave de los sistemas caóticos: siguen patrones generales, pero no se puede retroproyectar un punto final específico hasta un dato de entrada 
+inicial particular porque los caminos potenciales que conducen a esos resultados se superponen.
 
 El efecto mariposa 
 
-La principal idea del caos, que los pequeños cambios pueden tener grandes consecuencias más adelante, es a menudo aludida como el «efecto mariposa» por la representación de Lorenz de la criatura que bate las alas y provoca un tornado. Esta idea, que esencialmente se refiere al viaje en el tiempo, ha sido ampliamente utilizada en el cine y en la literatura popular, por ejemplo, en la película titulada El efecto mariposa e incluso en Parque Jurásico. En la película de 1946 ¡Qué bello es vivir!, un ángel muestra a George, el protagonista, que su ciudad natal habría sido un lugar mucho más desolado si él no hubiese nacido. El ángel le dice: «Has recibido un gran regalo, George: la oportunidad de ver cómo sería el mundo sin ti». George averigua que su propia existencia salvó a un hombre de morir ahogado y que la suya es realmente una vida maravillosa. Las conexiones entre los datos de entrada y de salida pueden registrarse en un gráfico para mostrar el rango de comportamientos que presenta un sistema caótico particular. Este tipo de gráfico refleja las soluciones del atractor, que a veces se denominan «atractores extraños». Un famoso ejemplo es el atractor de Lorenz, que tiene el aspecto de varias figuras de ochos solapadas, ligeramente movidas y distorsionadas, que recuerdan la forma de las alas de una mariposa. La teoría del caos surgió en la misma época en que se descubrieron los fractales con los que guarda una estrecha relación. Los mapas de atractores de soluciones caóticas para muchos sistemas pueden aparecer como fractales, en los que la fina estructura del atractor contiene otra estructura a muchas escalas.
+La principal idea del caos, que los pequeños cambios pueden tener grandes consecuencias más adelante,
+es a menudo aludida como el «efecto mariposa» por la representación de Lorenz de la criatura que bate las alas y provoca un tornado.
+Esta idea, que esencialmente se refiere al viaje en el tiempo, ha sido ampliamente utilizada en el cine y en la literatura popular,
+por ejemplo, en la película titulada El efecto mariposa e incluso en Parque Jurásico.
+En la película de 1946 ¡Qué bello es vivir!, un ángel muestra a George, el protagonista, que su ciudad natal habría sido un lugar 
+mucho más desolado si él no hubiese nacido. El ángel le dice: «Has recibido un gran regalo, George: la oportunidad de ver cómo sería el mundo sin ti». 
+George averigua que su propia existencia salvó a un hombre de morir ahogado y que la suya es realmente una vida maravillosa.
+Las conexiones entre los datos de entrada y de salida pueden registrarse en un gráfico para mostrar el rango de comportamientos que presenta un sistema
+caótico particular. Este tipo de gráfico refleja las soluciones del atractor, que a veces se denominan «atractores extraños».
+Un famoso ejemplo es el atractor de Lorenz, que tiene el aspecto de varias figuras de ochos solapadas, ligeramente movidas y distorsionadas,
+que recuerdan la forma de las alas de una mariposa. La teoría del caos surgió en la misma época en que se descubrieron los fractales
+con los que guarda una estrecha relación. Los mapas de atractores de soluciones caóticas para muchos sistemas pueden aparecer como fractales,
+en los que la fina estructura del atractor contiene otra estructura a muchas escalas.
 
 Referencias: 50 cosas que hay que saber sobre física- Joanne Baker
 
-</p>
+
