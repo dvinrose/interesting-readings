@@ -16,3 +16,5 @@ https://en.wikipedia.org/wiki/Emergentism
 https://es.wikipedia.org/wiki/Estoicismo
 
 https://en.wikipedia.org/wiki/The_Little_Prince
+
+https://en.wikipedia.org/wiki/Edmond_Dant%C3%A8s
