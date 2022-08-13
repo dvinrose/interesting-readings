@@ -18,3 +18,7 @@ https://es.wikipedia.org/wiki/Estoicismo
 https://en.wikipedia.org/wiki/The_Little_Prince
 
 https://en.wikipedia.org/wiki/Edmond_Dant%C3%A8s
+
+https://es.wikipedia.org/wiki/Evoluci%C3%B3n_biol%C3%B3gica
+
+https://es.wikipedia.org/wiki/Gen%C3%A9tica_de_poblaciones
