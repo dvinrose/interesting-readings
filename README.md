@@ -22,3 +22,7 @@ https://en.wikipedia.org/wiki/Edmond_Dant%C3%A8s
 https://es.wikipedia.org/wiki/Evoluci%C3%B3n_biol%C3%B3gica
 
 https://es.wikipedia.org/wiki/Gen%C3%A9tica_de_poblaciones
+
+https://es.wikipedia.org/wiki/Selecci%C3%B3n_natural
+
+https://es.wikipedia.org/wiki/Renacimiento
