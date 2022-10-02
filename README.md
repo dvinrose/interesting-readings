@@ -28,3 +28,5 @@ https://es.wikipedia.org/wiki/Selecci%C3%B3n_natural
 https://es.wikipedia.org/wiki/Renacimiento
 
 https://en.wikipedia.org/wiki/The_Strangest_Secret
+
+https://en.wikipedia.org/wiki/Social_norm
