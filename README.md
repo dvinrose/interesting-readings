@@ -2,7 +2,6 @@
 
 just a compilation of interesting things
 
-
 https://es.wikipedia.org/wiki/Gottfried_Leibniz
 
 https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -32,3 +31,5 @@ https://en.wikipedia.org/wiki/The_Strangest_Secret
 https://en.wikipedia.org/wiki/Social_norm
 
 https://es.wikipedia.org/wiki/Makoto_Shinkai
+
+https://en.wikipedia.org/wiki/Analogy
