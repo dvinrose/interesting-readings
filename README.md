@@ -33,3 +33,5 @@ https://en.wikipedia.org/wiki/Social_norm
 https://es.wikipedia.org/wiki/Makoto_Shinkai
 
 https://en.wikipedia.org/wiki/Analogy
+
+https://es.wikipedia.org/wiki/Epistemolog%C3%ADa
